@@ -1,9 +1,7 @@
 
 ## Termux-X11
 
-A simple, messy way to run a fully functional xfce desktop in Termux-X11.
-
-I am not a security expert so I'm sure it will get some critisism but for the amount of time I've spent messing around with QEMU, ISOs, VMs and VNC clients, it is worth sharing for a beginner to play around with.
+A simple way to run a fully functional xfce desktop in Termux-X11.
 
 ## Prerequisites ##
 
