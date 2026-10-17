@@ -61,11 +61,4 @@ chmod +x start-x11.sh
 
 ./start-x11.sh
 
-## Things to keep in mind ##
-This could be much better. I plan to improve it over time but for now, it does the trick.
-
-
-
-
-
 # Enjoy your fully functional, on-demand XFCE desktop! That is actually usable!!
