@@ -1,7 +1,9 @@
 
 ## Termux-X11
 
-A simple way to run a fully functional xfce desktop in Termux-X11.
+A simple, messy way to run a fully functional xfce desktop in Termux-X11.
+
+Keep in mind this is not really for the security conscious.
 
 ## Prerequisites ##
 
@@ -59,4 +61,5 @@ chmod +x start-x11.sh
 
 ./start-x11.sh
 
+## Enjoy your ffully functional (mostly) linux desktop!
 # Enjoy your fully functional, on-demand XFCE desktop! That is actually usable!!
